@@ -3,7 +3,10 @@
 Find datasets on your disk!
 
 ### Usage
+
+```bash
 julia
+```
 
 ```julia
 julia> import Pkg
